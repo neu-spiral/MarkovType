@@ -2,7 +2,7 @@ This repository includes the code used in our work:
 
 > Sunger, E., Bicer, Y., Erdogmus, D., & Imbiriba, T. (2025). MarkovType: A Markov Decision Process Strategy for Non-Invasive Brain-Computer Interfaces Typing Systems. Proceedings of the AAAI Conference on Artificial Intelligence.
 
-Please cite this [paper](https://ojs.aaai.org/index.php/AAAI/article/view/35064]) if you intend to use this code for your research.
+Please cite this [paper](https://ojs.aaai.org/index.php/AAAI/article/view/35064) if you intend to use this code for your research.
 
 This work proposes a Markov Decision Process for non-invasive BCI typing systems (MarkovType) and formulate the
 BCI typing procedure as a Partially Observable Markov Decision Process (POMDP), incorporating the typing
